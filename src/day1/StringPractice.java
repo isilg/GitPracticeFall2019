@@ -7,3 +7,4 @@ public class StringPractice {
         System.out.println(str);
     }
 }
+
